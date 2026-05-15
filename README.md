@@ -1,8 +1,9 @@
-Hi, I'm [Chi Luong Nguyen] 👋
+### Hi, I'm [Chi Luong Nguyen] 👋
+ 
 Student · Blockchain & Cybersecurity
-
-🔐 Exploring smart contract security and ethical hacking
-🌱 Currently learning Penetration Testing & Smart Contracts
+ 
+- 🔐 Exploring smart contract security and ethical hacking
+- 🌱 Currently learning `Penetration Testing` & `Smart Contracts`
 
 <!--
 **luong101/luong101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
